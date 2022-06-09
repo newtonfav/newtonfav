@@ -1,4 +1,4 @@
-# Hello! I am @Favour Oghenekowho 
+# Hello! I am **Favour Oghenekowho** 
 
 
 - 🔭 I’m currently working on web development
