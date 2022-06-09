@@ -1,7 +1,6 @@
 ![banner (2)](https://user-images.githubusercontent.com/61682493/172954498-33a3376d-2c50-4207-9263-43b12a31083a.png)
-
-## About [**me**](https://github.com/newtonfav) ![eyes](https://user-images.githubusercontent.com/61682493/172954844-0b121ec9-dd08-408f-816f-89bf5f5e81ab.gif)
 I build sophisticated web projects using the latest web technology
+## About [**me**](https://github.com/newtonfav) ![eyes](https://user-images.githubusercontent.com/61682493/172954844-0b121ec9-dd08-408f-816f-89bf5f5e81ab.gif
 
 
 - 🔭 I’m currently working on web development
