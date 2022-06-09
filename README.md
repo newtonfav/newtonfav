@@ -11,7 +11,7 @@ I build sophisticated web projects using the latest web technology
 
 📍Find me at <a href="[linkedin](https://www.linkedin.com/in/favour-oghenekowho/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/61682493/172943517-cd50332f-b06e-4b16-88e5-942c9eecfb92.png" alt="" height="30" width="40"/></a>
 
-<a href="https://github.com/newtonfav" target="blank"><img align="center" src="https://user-images.githubusercontent.com/61682493/172943774-18e7b32a-d624-4d42-984e-76c73f92d5b3.png" alt="" height="30" width="40"/></a>
+<a href="https://github.com/newtonfav" target="blank"><img align="center" src="https://user-images.githubusercontent.com/61682493/172943774-18e7b32a-d624-4d42-984e-76c73f92d5b3.png" alt="" height="30" width="60"/></a>
 
 
 
