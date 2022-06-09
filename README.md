@@ -9,10 +9,7 @@ I build sophisticated web projects using the latest web technology
 - 🌱 I’m currently learning React and Nodejs
 - 👯 I’m looking to collaborate on web design and development
 
-📍Find me at ![git logo](https://user-images.githubusercontent.com/61682493/172936897-c406e6e2-aefe-4861-b011-60aaba6fde76.png)
+📍Find me at [Github](url)
 
 
-
-
-
- linkedin.com/in/favour-oghenekowho
+[linkedin](https://www.linkedin.com/in/favour-oghenekowho/)
