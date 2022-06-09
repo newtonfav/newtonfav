@@ -5,7 +5,7 @@ I build sophisticated web projects using the latest web technology
 
 
 - 🔭 I’m a professional Front-end developer
-- 🌱 I’m currently looking into blockchain technology
+- 🌱 currently learning blockchain tech
 - ❤️ I love Javascript
 - 👯 wanna collaborate? HMU [mail](newtonfav@gmail.com)
 - 💬 Ask about anything [here](https://github.com/newtonfav/newtonfav/issues)
