@@ -1,4 +1,5 @@
-![b9371273ae94a946e92074d1b9696680](https://user-images.githubusercontent.com/61682493/172929875-c8ac2d24-a59a-4069-b18d-4f11f0f22c0d.gif)
+![waving-hand-joypixels](https://user-images.githubusercontent.com/61682493/172931266-b44dfc23-1532-48cf-b918-e32e20c12aee.gif)
+
 # Hello! I am  **Favour Oghenekowho** 
 
 
