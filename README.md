@@ -1,4 +1,5 @@
-![waving-hand-joypixels](https://user-images.githubusercontent.com/61682493/172931266-b44dfc23-1532-48cf-b918-e32e20c12aee.gif) # Hello! I am  **Favour Oghenekowho** 
+![Hi](https://user-images.githubusercontent.com/61682493/172931690-06ae7ce5-35bb-4ecf-80da-fd0166277f6d.gif) # Hello! I am  **Favour Oghenekowho** 
+
 
 
 
