@@ -12,6 +12,9 @@ I build sophisticated web projects using the latest web technology
 📍Find me at <a href="[linkedin](https://www.linkedin.com/in/favour-oghenekowho/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 
+![linkedin](https://user-images.githubusercontent.com/61682493/172941187-43656fee-c9c8-4bdf-8624-7bc4bd0eccf0.png)
+
+
 
 [Github](url) 
 
