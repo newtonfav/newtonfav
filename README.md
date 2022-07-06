@@ -1,5 +1,4 @@
-![git](https://user-images.githubusercontent.com/61682493/177457848-bf496ce4-d802-4895-a085-c8cc4fb34f90.jpg)
-
+<a href="https://www.linkedin.com/in/favour-oghenekowho/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/61682493/177457848-bf496ce4-d802-4895-a085-c8cc4fb34f90.jpg" alt=""/></a>
 
 I build sophisticated web projects using the latest web technology
 ## ⚡About [**me**](https://github.com/newtonfav)
