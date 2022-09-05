@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/favour-oghenekowho/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/61682493/177457848-bf496ce4-d802-4895-a085-c8cc4fb34f90.jpg" alt=""/></a>
 
-I build sophisticated web projects using the latest web technology
+A goal-oriented web developer who is passionate about making scalable, maintainable and accessible web projects, with hands-on experience in the full life cycle of the web development process from architecture to sophisticated designs, to provided web based solutions to businesses.
 ## ⚡About [**me**](https://github.com/newtonfav)
 ![eyes](https://user-images.githubusercontent.com/61682493/172955025-c286dbe7-905e-4fac-b880-ed40b909a5fa.gif)
 
