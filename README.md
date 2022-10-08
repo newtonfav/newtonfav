@@ -5,7 +5,7 @@ A goal-oriented web developer who is passionate about writing scalable and maint
 ![eyes](https://user-images.githubusercontent.com/61682493/172955025-c286dbe7-905e-4fac-b880-ed40b909a5fa.gif)
 
 
-- 🔭 I’m a professional Front-end developer
+- 🔭 I’m a Web developer
 - ❤️ I love working with JS
 - 👯 wanna collaborate? HMU [Linkedin](https://www.linkedin.com/in/favour-oghenekowho/)
 - 💬 Ask about anything [here](https://github.com/newtonfav/newtonfav/issues)
