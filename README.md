@@ -6,7 +6,7 @@ A goal-oriented web developer who is passionate about writing scalable and maint
 
 
 - 🔭 I’m a Web developer
-- ❤️ I love working with JS
+- ❤️ I love JS
 - 👯 wanna collaborate? HMU [Linkedin](https://www.linkedin.com/in/favour-oghenekowho/)
 - 💬 Ask about anything [here](https://github.com/newtonfav/newtonfav/issues)
 
