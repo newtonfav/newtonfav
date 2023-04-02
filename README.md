@@ -1,12 +1,12 @@
 <a href="https://www.linkedin.com/in/favour-oghenekowho/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/61682493/177457848-bf496ce4-d802-4895-a085-c8cc4fb34f90.jpg" alt=""/></a>
 
-A goal-oriented web developer who is passionate about writing scalable and maintainable codes, with hands-on experience in the full life cycle of the web development process from architecture to sophisticated designs, which aims to provide web based solutions to businesses.
+Driven by my passion for the field and a strong focus on goals, I strive to create scalable and reliable projects as a web developer. I am equipped with effective communication and problem-solving skills that enable me to accomplish this.
 ## ⚡About [**me**](https://github.com/newtonfav)
 ![eyes](https://user-images.githubusercontent.com/61682493/172955025-c286dbe7-905e-4fac-b880-ed40b909a5fa.gif)
 
 
 - 🔭 I’m a Web developer
-- ❤️ I love JS
+- ❤️ I love learning new technologies
 - 👯 wanna collaborate? HMU [Linkedin](https://www.linkedin.com/in/favour-oghenekowho/)
 - 💬 Ask about anything [here](https://github.com/newtonfav/newtonfav/issues)
 
