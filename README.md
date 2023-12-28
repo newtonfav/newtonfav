@@ -5,7 +5,7 @@ I create effective methods to solve problems.
 ![eyes](https://user-images.githubusercontent.com/61682493/172955025-c286dbe7-905e-4fac-b880-ed40b909a5fa.gif)
 
 
-- 🔭 I’m a Web developer
+- 🔭 I’m a Software Engineer
 - ❤️ I love learning new technologies
 - 👯 wanna collaborate? HMU [Linkedin](https://www.linkedin.com/in/favour-oghenekowho/)
 - 💬 Ask about anything [here](https://github.com/newtonfav/newtonfav/issues)
