@@ -7,7 +7,7 @@
 
 - 🔭 I’m a Software Engineer
 - ❤️ I love learning new technologies
-- 👯 wanna collaborate? HMU [Linkedin](https://www.linkedin.com/in/favour-oghenekowho/)
+- 👯 wanna collaborate? [Website](https://newtonfav.xyz/)
 - 💬 Ask about anything [here](https://github.com/newtonfav/newtonfav/issues)
 
 # 💻 Tech Stack:
